@@ -1,0 +1,6 @@
+{
+  "name": "ani.pm — Watch Anime Free, Subbed & Dubbed, in HD",
+  "description": "Stream subbed and dubbed anime in HD with multi-resolution playback, synchronized Watch Together rooms, personal watchlists, and live community discussions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
